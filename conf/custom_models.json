@@ -132,6 +132,7 @@
       "model_name": "openai/o4-mini-high",
       "aliases": ["o4-mini-high", "o4mini-high", "o4minihigh", "o4minihi"],
       "context_window": 200000,
+      "max_output_tokens": 100000,
       "supports_extended_thinking": false,
       "supports_json_mode": true,
       "supports_function_calling": true,
