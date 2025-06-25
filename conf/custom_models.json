@@ -87,7 +87,7 @@
       "description": "DeepSeek R1 with thinking mode - advanced reasoning capabilities (text-only)"
     },
     {
-      "model_name": "openai/o3",
+      "model_name": "openai/o3-2025-04-16",
       "aliases": ["o3"],
       "context_window": 200000,
       "max_output_tokens": 100000,
@@ -101,7 +101,7 @@
       "description": "OpenAI's o3 model - well-rounded and powerful across domains with vision"
     },
     {
-      "model_name": "openai/o3-pro",
+      "model_name": "openai/o3-pro-2025-06-10",
       "aliases": ["o3-pro", "o3pro"],
       "context_window": 200000,
       "max_output_tokens": 100000,
